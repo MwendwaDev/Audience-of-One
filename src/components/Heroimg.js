@@ -1,6 +1,6 @@
 import "./Heroimgstyles.css"
 import React from "react";
-import oneimg from "../assets/henry-be-IicyiaPYGGI-unsplash.jpg";
+import oneimg from "../assets/tomoko-uji-eriuKJwcdjI-unsplash.jpg";
 import { Link } from "react-router-dom";
 
 const Heroimg = () => {
@@ -10,8 +10,8 @@ const Heroimg = () => {
                 <img className="intro-img" src={oneimg} alt="imageone" />
             </div>
             <div className="content">
-                <p>Doing life for the Audience of One</p>
-                <h1>The Audience of One</h1>
+                <p>For a Surrendered life, wholly & fully to Christ. </p>
+                <h1>For The Audience of One</h1>
                 <div>
                     <Link to="/about" className="btn">About
 

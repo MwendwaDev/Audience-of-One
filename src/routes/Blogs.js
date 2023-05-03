@@ -10,7 +10,7 @@ const Blogs = () => {
         <Navbar />
         
         <Heroimg2 heading="Audience of One Blog Resources." 
-        text="#Doing Life for The Audience of One" />
+          />
         
         <Blogcard />
 

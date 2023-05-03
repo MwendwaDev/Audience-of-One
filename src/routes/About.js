@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar"; 
 import Footer from "../components/Footer";
 import Heroimg2 from "../components/Heroimg2";
-
+import Aboutimg from "../components/Aboutimg";
 
 
 const About = () => {
@@ -11,6 +11,10 @@ const About = () => {
 
         <Heroimg2 heading="A little Something about me" 
         text="And, why A of One?" />
+
+        <Aboutimg />
+
+       
 
         <Footer />
     </div>

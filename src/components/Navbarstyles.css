@@ -9,7 +9,7 @@
     z-index: 10;
 }
 .header-bg {
-background-color: #000;
+background-color: rgb(0, 0, 0, 0.1);
 transition: 0.5s;
 }
 
